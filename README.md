@@ -1,0 +1,1 @@
+# staatic_plugin
